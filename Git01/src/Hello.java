@@ -5,5 +5,9 @@ public class Hello {
 		System.out.println("hello...334666999");
 
 	}
+	
+	public static void say() {
+		
+	}
 
 }
