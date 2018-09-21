@@ -9,5 +9,10 @@ public class Hello {
 	public static void say() {
 		
 	}
+	
+    public static void say2() {
+		
+	}
+
 
 }
